@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service
+END
+SessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CMPT470-1141-g-group-7/!svn/ver/79/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/SessionService.java
+END
+SessionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CMPT470-1141-g-group-7/!svn/ver/83/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/SessionServiceImpl.java
+END
+UserDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CMPT470-1141-g-group-7/!svn/ver/16/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/UserDetailsServiceImpl.java
+END
+AuthService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CMPT470-1141-g-group-7/!svn/ver/98/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/AuthService.java
+END
+AuthServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CMPT470-1141-g-group-7/!svn/ver/65/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/AuthServiceImpl.java
+END
+CourseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CMPT470-1141-g-group-7/!svn/ver/144/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/CourseService.java
+END
+StudentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CMPT470-1141-g-group-7/!svn/ver/46/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/StudentService.java
+END
+StudentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CMPT470-1141-g-group-7/!svn/ver/20/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/StudentServiceImpl.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CMPT470-1141-g-group-7/!svn/ver/62/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/UserService.java
+END
+InstructorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/InstructorService.java
+END
+CourseoptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CMPT470-1141-g-group-7/!svn/ver/121/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/CourseoptionService.java
+END
+TeachesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CMPT470-1141-g-group-7/!svn/ver/168/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/TeachesService.java
+END
+CoursePlanService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CMPT470-1141-g-group-7/!svn/ver/151/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/CoursePlanService.java
+END
+CoursePlanServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CMPT470-1141-g-group-7/!svn/ver/151/project/trunk/course-planner/src/main/java/cmpt470/group7/project/service/CoursePlanServiceImpl.java
+END

@@ -1,0 +1,10 @@
+student.title=Student List
+student.id=Student ID
+student.firstname=First name
+student.lastname=Last name
+student.programName=Program Name
+student.email=Email
+
+user.logged=Logged in as
+user.logout=Logout
+AbstractUserDetailsAuthenticationProvider.badCredentials=Invalid username or password

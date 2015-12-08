@@ -1,0 +1,152 @@
+@CHARSET "UTF-8";
+
+body { 
+  background-color: #F5F5F5;
+  background-image: none;
+  color: #000;
+  font-family: sans-serif;
+}
+a:link { color: #00e; }
+a:visited { color: #529; }
+a:active { color: #f00; }
+
+
+p#userinfo {
+  text-align: right;
+  font-size: 80%;
+}
+p#lblHistory {
+  padding: 0.22em;
+  font-size: 90%;
+}
+p#lblAllPlans {
+  padding: 0.0em;  
+  font-size: 90%;
+}
+
+p#lblAvailable {
+  padding: 0.0em;  
+  font-size: 90%;
+}
+lblAvailable
+
+.empty {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+ul.errorlist {
+  color: #c00;
+  font-style: italic;
+  list-style-type: none;
+  margin: 0.5em 0;
+  padding: 0;
+}
+.errorlist {
+  color: #c00;
+  font-style: italic;
+  margin: 0.5em 0;
+  padding: 0;
+}
+ul.errorlist li {
+  margin: 0;
+  padding: 0;
+}
+.helptext {
+  color: #888;
+  font-size: 80%;
+}
+span.required {
+  color: #b00;
+}
+
+ul.messages {
+  margin: 0;
+  padding: 0.5em;
+  border: dashed #888 1px;
+  list-style-type: none;
+}
+ul.messages li {
+  margin: 0;
+  padding: 0;
+}
+ul.messages li.info {
+  color: #00f;
+}
+ul.messages li.error {
+  color: #c00;
+}
+
+div.container {
+    width: 884px;
+    height:804px;
+    background-color: #F5F5F5;
+    padding: 0 2px;
+}
+div.one {
+    width: 352px;
+    height: 802px;
+    background-color: #F5F5F5;
+    float:left;
+    margin-right:2px;
+}
+
+div.two {
+    width: 200px;
+    height: 800px;
+    background-color: #F5F5F5;
+    float: right;
+    clear:right;
+}
+
+div.three {
+    width: 330px;
+    height: 800px;
+    margin-bottom: 2px;
+    background-color: #F5F5F5;
+    float: right;
+}
+
+input.logout {
+    position:relative;
+	left:20px;
+	top:10px;
+}
+
+input.search {
+    position:relative;
+	left:450px;
+	top:30px;
+}
+
+.available {
+	background-color: #AA272F;
+	background-image: -moz-linear-gradient(center top, #CD202C, #AA272F);
+	background-repeat: repeat-x;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	color: #FFFFFF;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	align: right;
+}
+
+.plan {
+	background: rgba(147,206,222,1);
+	background: -moz-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+	background-repeat: repeat-x;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	color: #000000;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	align: right;
+}
+
+.history {
+	background-color: #FF9900;
+	background-image: -moz-linear-gradient(center top, #CD202C, #AA272F);
+	background-repeat: repeat-x;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	color: #000000;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	align: right;
+}

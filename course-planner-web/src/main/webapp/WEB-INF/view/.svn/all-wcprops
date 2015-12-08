@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CMPT470-1141-g-group-7/!svn/ver/185/project/trunk/course-planner/src/main/webapp/WEB-INF/view
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CMPT470-1141-g-group-7/!svn/ver/48/project/trunk/course-planner/src/main/webapp/WEB-INF/view/login.jsp
+END
+courseInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CMPT470-1141-g-group-7/!svn/ver/54/project/trunk/course-planner/src/main/webapp/WEB-INF/view/courseInfo.jsp
+END
+includes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CMPT470-1141-g-group-7/!svn/ver/16/project/trunk/course-planner/src/main/webapp/WEB-INF/view/includes.jsp
+END
+student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CMPT470-1141-g-group-7/!svn/ver/62/project/trunk/course-planner/src/main/webapp/WEB-INF/view/student.jsp
+END
+studentlogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CMPT470-1141-g-group-7/!svn/ver/128/project/trunk/course-planner/src/main/webapp/WEB-INF/view/studentlogin.jsp
+END
+fullCourseInfoSemester.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CMPT470-1141-g-group-7/!svn/ver/140/project/trunk/course-planner/src/main/webapp/WEB-INF/view/fullCourseInfoSemester.jsp
+END
+LatestCourseInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CMPT470-1141-g-group-7/!svn/ver/189/project/trunk/course-planner/src/main/webapp/WEB-INF/view/LatestCourseInfo.jsp
+END
+courseInfoSemester.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CMPT470-1141-g-group-7/!svn/ver/150/project/trunk/course-planner/src/main/webapp/WEB-INF/view/courseInfoSemester.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CMPT470-1141-g-group-7/!svn/ver/48/project/trunk/course-planner/src/main/webapp/WEB-INF/view/index.jsp
+END
+coursePlan_Prod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CMPT470-1141-g-group-7/!svn/ver/151/project/trunk/course-planner/src/main/webapp/WEB-INF/view/coursePlan_Prod.jsp
+END
+coursePlan.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CMPT470-1141-g-group-7/!svn/ver/120/project/trunk/course-planner/src/main/webapp/WEB-INF/view/coursePlan.jsp
+END
+SuggestedCoursesBySemester.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CMPT470-1141-g-group-7/!svn/ver/73/project/trunk/course-planner/src/main/webapp/WEB-INF/view/SuggestedCoursesBySemester.jsp
+END
+courseInfoNoDescp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CMPT470-1141-g-group-7/!svn/ver/26/project/trunk/course-planner/src/main/webapp/WEB-INF/view/courseInfoNoDescp.jsp
+END
+500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CMPT470-1141-g-group-7/!svn/ver/82/project/trunk/course-planner/src/main/webapp/WEB-INF/view/500.jsp
+END

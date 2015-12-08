@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json
+END
+CourseOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CMPT470-1141-g-group-7/!svn/ver/39/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/CourseOption.java
+END
+CourseOptionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CMPT470-1141-g-group-7/!svn/ver/40/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/CourseOptionList.java
+END
+TeachesJSON.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CMPT470-1141-g-group-7/!svn/ver/166/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/TeachesJSON.java
+END
+CourseHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CMPT470-1141-g-group-7/!svn/ver/32/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/CourseHistory.java
+END
+CourseInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CMPT470-1141-g-group-7/!svn/ver/39/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/CourseInfo.java
+END
+AuthResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CMPT470-1141-g-group-7/!svn/ver/65/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/AuthResponse.java
+END
+TeachesJSONList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CMPT470-1141-g-group-7/!svn/ver/166/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/TeachesJSONList.java
+END
+CourseInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CMPT470-1141-g-group-7/!svn/ver/60/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/CourseInfoList.java
+END
+AuthRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CMPT470-1141-g-group-7/!svn/ver/65/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/AuthRequest.java
+END
+InstructorJSON.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/InstructorJSON.java
+END
+CoursePlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CMPT470-1141-g-group-7/!svn/ver/105/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/CoursePlan.java
+END
+InstructorJSONList.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CMPT470-1141-g-group-7/!svn/ver/166/project/trunk/course-planner/src/main/java/cmpt470/group7/project/json/InstructorJSONList.java
+END

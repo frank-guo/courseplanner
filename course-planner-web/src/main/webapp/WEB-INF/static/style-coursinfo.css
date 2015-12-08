@@ -1,0 +1,62 @@
+table,th,td
+	{
+	border:1px solid black;
+	}
+
+div#table1{
+	    float: left;
+	    margin-right:20px;
+
+}	
+div#table2{
+	    float: left;
+	    margin-left:20px;
+
+}			
+
+
+span.header{
+	font-size: large;
+	font-weight:bolder;
+}	
+
+#guid{
+	font-size: small;
+	color:blue;
+}	
+a{
+	font-size: small;
+	color:pink;
+}
+
+#courseDetails tr td:first-child{
+	color:blue;
+}
+
+#fullInfoForIndividualCourse tr td{
+	color:blue;
+}
+
+.left {
+	width:7%;
+    float: left;
+    text-align: left;
+	clear: both;
+}
+.right {
+	width:65%;
+    margin-left: 10px;
+    float:left;
+}
+
+.condition{
+	width:5em;
+}
+
+#getCourseBySetCondition{
+	width:3em;
+	float: left;
+	clear: both;
+}
+
+

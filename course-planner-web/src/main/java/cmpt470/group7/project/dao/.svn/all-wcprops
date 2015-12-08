@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao
+END
+TeachesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CMPT470-1141-g-group-7/!svn/ver/161/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/TeachesDao.java
+END
+TeachesDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CMPT470-1141-g-group-7/!svn/ver/168/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/TeachesDaoImpl.java
+END
+CourseplanDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CMPT470-1141-g-group-7/!svn/ver/111/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseplanDao.java
+END
+CourseplanDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CMPT470-1141-g-group-7/!svn/ver/111/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseplanDaoImpl.java
+END
+CoursePlanAndOptionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CMPT470-1141-g-group-7/!svn/ver/127/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CoursePlanAndOptionDao.java
+END
+CoursePlanAndOptionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CMPT470-1141-g-group-7/!svn/ver/127/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CoursePlanAndOptionDaoImpl.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CMPT470-1141-g-group-7/!svn/ver/16/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/UserDao.java
+END
+UserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CMPT470-1141-g-group-7/!svn/ver/16/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/UserDaoImpl.java
+END
+CourseoptionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CMPT470-1141-g-group-7/!svn/ver/50/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseoptionDao.java
+END
+CourseoptionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CMPT470-1141-g-group-7/!svn/ver/121/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseoptionDaoImpl.java
+END
+StudDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CMPT470-1141-g-group-7/!svn/ver/79/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/StudDao.java
+END
+StudDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CMPT470-1141-g-group-7/!svn/ver/95/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/StudDaoImpl.java
+END
+CourseHistoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CMPT470-1141-g-group-7/!svn/ver/39/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseHistoryDao.java
+END
+CourseHistoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CMPT470-1141-g-group-7/!svn/ver/39/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseHistoryDaoImpl.java
+END
+CourseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CMPT470-1141-g-group-7/!svn/ver/144/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseDaoImpl.java
+END
+StudentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CMPT470-1141-g-group-7/!svn/ver/16/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/StudentDao.java
+END
+StudentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CMPT470-1141-g-group-7/!svn/ver/16/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/StudentDaoImpl.java
+END
+CourseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CMPT470-1141-g-group-7/!svn/ver/26/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/CourseDao.java
+END
+InstructorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/InstructorDao.java
+END
+InstructorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/dao/InstructorDaoImpl.java
+END

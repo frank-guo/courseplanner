@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CMPT470-1141-g-group-7/!svn/ver/83/project/trunk/course-planner/src/main/java/cmpt470/group7/project/exception
+END
+UnauthorizedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CMPT470-1141-g-group-7/!svn/ver/79/project/trunk/course-planner/src/main/java/cmpt470/group7/project/exception/UnauthorizedException.java
+END
+HttpErrorStatusFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CMPT470-1141-g-group-7/!svn/ver/83/project/trunk/course-planner/src/main/java/cmpt470/group7/project/exception/HttpErrorStatusFilter.java
+END

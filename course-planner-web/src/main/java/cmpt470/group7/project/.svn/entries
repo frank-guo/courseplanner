@@ -1,0 +1,55 @@
+10
+
+dir
+185
+https://punch.cs.sfu.ca/svn/CMPT470-1141-g-group-7/project/trunk/course-planner/src/main/java/cmpt470/group7/project
+https://punch.cs.sfu.ca/svn/CMPT470-1141-g-group-7
+
+
+
+2014-04-10T22:01:04.986039Z
+176
+ligangg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+10f13d75-e2b4-45ec-b206-c584dedfe3c8
+
+auth
+dir
+
+controller
+dir
+
+dao
+dir
+
+domain
+dir
+
+exception
+dir
+
+jdbc
+dir
+
+json
+dir
+
+model
+dir
+
+service
+dir
+

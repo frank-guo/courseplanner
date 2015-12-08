@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/controller
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CMPT470-1141-g-group-7/!svn/ver/98/project/trunk/course-planner/src/main/java/cmpt470/group7/project/controller/AbstractController.java
+END
+InstructorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CMPT470-1141-g-group-7/!svn/ver/176/project/trunk/course-planner/src/main/java/cmpt470/group7/project/controller/InstructorController.java
+END
+RestfulController.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CMPT470-1141-g-group-7/!svn/ver/166/project/trunk/course-planner/src/main/java/cmpt470/group7/project/controller/RestfulController.java
+END
+AuthController.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CMPT470-1141-g-group-7/!svn/ver/125/project/trunk/course-planner/src/main/java/cmpt470/group7/project/controller/AuthController.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CMPT470-1141-g-group-7/!svn/ver/185/project/trunk/course-planner/src/main/webapp/WEB-INF
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CMPT470-1141-g-group-7/!svn/ver/80/project/trunk/course-planner/src/main/webapp/WEB-INF/jdbc.properties
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CMPT470-1141-g-group-7/!svn/ver/83/project/trunk/course-planner/src/main/webapp/WEB-INF/dispatcher-servlet.xml
+END
+security-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CMPT470-1141-g-group-7/!svn/ver/46/project/trunk/course-planner/src/main/webapp/WEB-INF/security-context.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CMPT470-1141-g-group-7/!svn/ver/82/project/trunk/course-planner/src/main/webapp/WEB-INF/web.xml
+END
